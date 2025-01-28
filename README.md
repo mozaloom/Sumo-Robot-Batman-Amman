@@ -157,4 +157,3 @@ platformio run --target upload
 <div align="center">
   <em>By Mohammed Zaloom</em>
 </div>
-```
