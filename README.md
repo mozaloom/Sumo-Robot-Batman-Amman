@@ -13,32 +13,24 @@ A championship-winning autonomous sumo robot featuring redundant systems and ada
 
 ## 🌟 Features
 
-- **Redundant Control Systems**: Multiple operation modes for reliability
-- **Bio-inspired Design**: Custom titanium scoop inspired by ant mandibles
-- **Computer Vision System**: Real-time opponent detection using YOLOv8
-- **Battle Strategies**: Advanced movement and attack patterns
-- **Sensor Fusion**: Integrated IR sensors and computer vision
-- **Fail-safe Mechanisms**: Automatic fallback systems
+- **Redundant Control Systems**: Multiple operation modes for reliability.
+- **Bio-inspired Design**: Custom titanium scoop inspired by ant mandibles.
+- **Computer Vision System**: Real-time opponent detection using YOLOv8.
+- **Battle Strategies**: Advanced movement and attack patterns.
+- **Sensor Fusion**: Integrated IR sensors and computer vision.
+- **Fail-safe Mechanisms**: Automatic fallback systems.
 
 ## 💡 Operation Modes
 
-### 1. Full System Mode (Primary)
-- Raspberry Pi + Arduino + Computer Vision
-- Full sensor fusion and advanced strategies
-- Real-time opponent tracking with YOLOv8
-- Maximum competitive advantage
+### 1. Plan A: Full System Mode (Primary)
+- Raspberry Pi + Arduino + Computer Vision.
+- Full sensor fusion and advanced strategies.
+- Real-time opponent tracking with YOLOv8.
+- Maximum competitive advantage.
 
-### 2. Arduino + Basic Vision Mode
-- Fallback if Raspberry Pi fails
-- Arduino handles core control
-- Basic USB camera for simplified vision
-- Reduced but effective functionality
-
-### 3. Pure Arduino Mode (Emergency)
-- Ultimate fallback mode
-- Relies on IR sensors and basic strategies
-- Completely autonomous operation
-- Battle-tested reliability
+### 2. Plan B: Arduino + Basic Sensors Mode
+- Fallback system using only Arduino and basic sensors.
+- Core control with IR sensors for simplified yet effective functionality.
 
 ## 🏗️ Project Structure
 
@@ -159,13 +151,6 @@ sumo-robot-batman/
 - **Sensor Problems**: Redundant sensors take over
 - **Power Issues**: Emergency power management kicks in
 
-## 👥 Contributing
-
-Contributions welcome! See [Contributing Guidelines](CONTRIBUTING.md).
-
-## 📜 License
-
-MIT License - see [LICENSE](LICENSE)
 
 ---
 
