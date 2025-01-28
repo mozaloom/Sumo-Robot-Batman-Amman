@@ -1,6 +1,4 @@
-Here's the adjusted README with the requested changes:
 
-```markdown
 # 🤖 Sumo Robot Batman
 
 A championship-winning autonomous sumo robot featuring redundant systems and adaptive control strategies. Winner of the National Sumo Robot Competition in Jordan.
