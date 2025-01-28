@@ -103,13 +103,4 @@ void loop() {
            └──────────┘                   └──────────┘
 ```
 
-## 🚀 Competition Performance
-| Mode              | Win Rate | Avg Match Time | Successful Fallsafe Activations |
-|-------------------|----------|----------------|----------------------------------|
-| Full Cognitive    | 98%      | 12.4s          | 0                                |
-| Hybrid Vision     | 85%      | 22.1s          | 9                                |
-| Pure Reflex       | 76%      | 34.6s          | 17                               |
-
-
-```
 
