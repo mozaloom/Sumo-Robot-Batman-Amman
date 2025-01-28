@@ -1,5 +1,5 @@
 
-# 🤖 Sumo Robot Batman
+# 🤖 Sumo Robot :Batman Amman
 
 A championship-winning autonomous sumo robot featuring redundant systems and adaptive control strategies. Winner of the National Sumo Robot Competition in Jordan.
 
