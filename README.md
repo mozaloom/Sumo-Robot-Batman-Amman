@@ -9,10 +9,9 @@ Autonomous combat robot engineered for strategic sumo matches through opponent d
 </div>
 
 <div align="center">
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
+  [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)]
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]
+  [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)]
 </div>
 
 ## 🏆 Overview
