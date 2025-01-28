@@ -30,7 +30,7 @@ Welcome to the repository for the **BatmanAmman Sumo Robot**, a project designed
 
 ---
 
-## 🔄 Project Timeline and Changes  
+## Project Timeline and Changes  
 
 ### **Initial Setup**  
 - Began with **Raspberry Pi 5 Model B** as the main controller.  
@@ -50,14 +50,14 @@ Welcome to the repository for the **BatmanAmman Sumo Robot**, a project designed
 
 ---
 
-## 🖼️ Design Showcase  
+## Design Showcase  
 <div align="center">
   <img src="https://raw.githubusercontent.com/mozaloom/Sumo-Robot-Batman-Amman/main/Prototype/IMG.PNG" alt="BatmanAmman Prototype" width="500"/>
 </div>
 
 ---
 
-## ⚙️ Installation and Usage  
+## Installation and Usage  
 
 ### **Hardware Setup**  
 1. **Assemble the Robot**: Use the designed 3D parts to construct the robot.  
@@ -88,7 +88,7 @@ Welcome to the repository for the **BatmanAmman Sumo Robot**, a project designed
 
 ---
 
-## 🌟 Highlights  
+## Highlights  
 
 | Component                | Specification                  |  
 |--------------------------|--------------------------------|  
@@ -102,7 +102,7 @@ Welcome to the repository for the **BatmanAmman Sumo Robot**, a project designed
 
 ---
 
-## 🚨 Challenges & Solutions  
+## Challenges & Solutions  
 
 | Challenge                | Solution                      |  
 |--------------------------|-------------------------------|  
@@ -113,7 +113,7 @@ Welcome to the repository for the **BatmanAmman Sumo Robot**, a project designed
 
 ---
 
-## 🔮 Future Roadmap  
+## Future Roadmap  
 1. Integrate **Coral TPU** for delayed vision-based strategies.  
 2. Develop **reinforcement learning** algorithms for adaptive strategies.  
 3. Add **wireless diagnostics** for performance monitoring.  
