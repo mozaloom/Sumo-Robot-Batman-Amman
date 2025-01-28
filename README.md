@@ -1,14 +1,7 @@
-# 🤖 🤖 Sumo Robot: Batman Amman
+# Sumo Robot: Batman Amman
 
-## 🏆 Overview  
+## Overview  
 Welcome to the repository for the **BatmanAmman Sumo Robot**, a project designed for the **National Sumo Robot Competition**. Our team engineered an autonomous combat robot capable of detecting opponents and making strategic moves to dominate sumo matches.
-
----
-
-## 📜 Project Details  
-
-### **Team Name**  
-**BatmanAmman**
 
 ---
 
